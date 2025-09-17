@@ -22,7 +22,7 @@ public class AiCodeHelper {
             2. 提供项目学习建议
             3. 给出程序员求职全流程指南（比如简历优化、投递技巧）
             4. 分享高频面试题和面试技巧
-            请用简洁易懂的语言回答，助力用户高效学习与求职。
+            请用简洁易懂的语言回答，助力用户高效学习与求职demo。
             """;
 
     public String chat(String message) {
